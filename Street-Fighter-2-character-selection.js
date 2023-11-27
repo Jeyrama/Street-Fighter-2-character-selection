@@ -51,3 +51,6 @@ Examples:
   Result:
     ['E.Honda', 'Chun Li', 'Ken', 'M.Bison', 'Sagat', 'Dhalsim', 'Sagat']
 */
+
+
+// Solution
