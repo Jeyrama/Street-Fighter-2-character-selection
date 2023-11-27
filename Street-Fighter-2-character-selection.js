@@ -73,3 +73,5 @@ function streetFighterSelection(fighters, position, moves) {
     return fighters[y][x];
   })
 }
+
+// or
